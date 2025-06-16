@@ -1,0 +1,33 @@
+You are building a Product Inventory Management System for a retail store. The store needs a system where staff can:
+
+create Category entity which will map to product (One to Many)
+
+Add, update, delete, and view products.
+
+Add, update, delete and view Category
+
+Search for products:
+
+Within a specific price range
+
+By product name (exact or partial match)
+
+Get the top 5 cheapest products
+
+Get Product by Category also
+
+The business wants this to be scalable and type-safe, so use Hibernate Criteria API for filtering.
+
+Add Product
+Update Product
+Delete Product
+View All Products
+Add Category
+Update Category
+Delete Category
+View All Categories
+Search Products by Price Range
+Search Products by Name
+Get Top 5 Cheapest Products
+Get Products by Category
+Exit
